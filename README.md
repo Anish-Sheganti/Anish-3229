@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm KavyaSri Singam
 
-<!--
-**kavyasri-singam/kavyasri-singam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 QA Automation Engineer  
+📌 2 years of experience at Infosys
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+
+### 🧪 [Cypress E-commerce UI Automation Suite](https://github.com/kavyasri-singam/cypress-ecommerce-tests)
+Tested key user flows including:
+- Login  
+- Product Search  
+- Add to Cart  
+- Checkout  
+- Form Validation  
+
+Built using:
+- **Cypress**
+- **JavaScript**
+- **Node.js**
+
+---
+
+## 💡 About Me
+- Passionate about automation, testing, and delivering high-quality software
+- Focused on building a strong portfolio through real-world QA projects
+- Committed to continuous improvement and best practices in testing
+
+---
+
+## 📫 Contact
+- 📧 Email: kadambari1102000@gmail.com
+
