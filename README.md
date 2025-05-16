@@ -20,6 +20,18 @@ Built using:
 - **JavaScript**
 - **Node.js**
 
+--------
+
+🛠️ API Automation Suite using Postman & Newman  
+Automated key REST API operations:
+- ✅ GET all products  
+- ✅ POST new product  
+- ✅ PUT update product  
+- ✅ DELETE product  
+
+Built with:  
+Postman, Newman, JavaScript, JSON  
+📂 [View Project Repo](https://github.com/kavyasri-singam/postman-api-tests)
 ---
 
 ## 💡 About Me
