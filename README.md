@@ -32,7 +32,19 @@ Automated key REST API operations:
 Built with:  
 Postman, Newman, JavaScript, JSON  
 📂 [View Project Repo](https://github.com/kavyasri-singam/postman-api-tests)
----
+---------
+
+
+### 🔹 Cypress E2E CI Automation
+
+End-to-end test suite built using **Cypress**, fully integrated with **GitHub Actions CI/CD**.
+
+- 🔗 [GitHub Repo](https://github.com/kavyasri-singam/cypress-e2e-ci)
+- 🧪 Tested Flows: Login, Add to Cart, Checkout, Place Order
+- ✅ CI/CD: Runs tests automatically on every push using GitHub Actions
+- 💡 Tech Stack: Cypress, Mocha, Chai, JavaScript, Node.js
+
+
 
 ## 💡 About Me
 - Passionate about automation, testing, and delivering high-quality software
