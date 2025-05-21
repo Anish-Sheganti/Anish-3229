@@ -32,10 +32,9 @@ Automated key REST API operations:
 Built with:  
 Postman, Newman, JavaScript, JSON  
 📂 [View Project Repo](https://github.com/kavyasri-singam/postman-api-tests)
--------------
 
 
-
+-----------------------------------------------------------------------
 
 
 ### 🔹 Cypress E2E CI Automation
