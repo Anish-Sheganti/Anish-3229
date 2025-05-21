@@ -22,7 +22,7 @@ Built using:
 
 --------
 
-🛠️ API Automation Suite using Postman & Newman  
+###  🛠️ API Automation Suite using Postman & Newman  
 Automated key REST API operations:
 - ✅ GET all products  
 - ✅ POST new product  
@@ -32,7 +32,7 @@ Automated key REST API operations:
 Built with:  
 Postman, Newman, JavaScript, JSON  
 📂 [View Project Repo](https://github.com/kavyasri-singam/postman-api-tests)
----------
+-------------
 
 
 ### 🔹 Cypress E2E CI Automation
@@ -46,7 +46,7 @@ End-to-end test suite built using **Cypress**, fully integrated with **GitHub Ac
 
 -----------------
 
-### 🎯 Project 5: End-to-End Automation using Playwright
+### 🎯  End-to-End Automation using Playwright
 
 🔹 **Tech Stack**: Playwright, TypeScript, GitHub Actions  
 🔹 **Description**: A complete E2E automation test suite covering login, search, add-to-cart, and checkout flows on https://automationexercise.com.  
