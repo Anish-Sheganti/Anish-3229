@@ -44,6 +44,19 @@ End-to-end test suite built using **Cypress**, fully integrated with **GitHub Ac
 - ✅ CI/CD: Runs tests automatically on every push using GitHub Actions
 - 💡 Tech Stack: Cypress, Mocha, Chai, JavaScript, Node.js
 
+-----------------
+
+### 🎯 Project 5: End-to-End Automation using Playwright
+
+🔹 **Tech Stack**: Playwright, TypeScript, GitHub Actions  
+🔹 **Description**: A complete E2E automation test suite covering login, search, add-to-cart, and checkout flows on https://automationexercise.com.  
+🔹 **Features**:
+- 18 automated UI tests across Chromium, Firefox, and WebKit
+- CI/CD with GitHub Actions
+- Downloadable HTML test report as artifact
+
+🔗 **GitHub Repo**: [playwright-e2e-suite](https://github.com/kavyasri-singam/playwright-e2e-suite)  
+📘 **Test Report**: Available in [Actions Artifacts](https://github.com/kavyasri-singam/playwright-e2e-suite/actions)
 
 
 ## 💡 About Me
