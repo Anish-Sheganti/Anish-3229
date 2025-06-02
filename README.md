@@ -64,7 +64,7 @@ End-to-end test suite built using **Cypress**, fully integrated with **GitHub Ac
 
 :
 
-🚀 ExpressiveCRM Automation Project
+###  🚀 ExpressiveCRM Automation Project
 A Selenium-based test automation suite for EspoCRM, built using Python and PyTest. This project validates core CRM functionalities such as login and leads management using end-to-end UI automation.
 
 🔧 Tech Stack
