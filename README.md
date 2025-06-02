@@ -91,6 +91,34 @@ Reporting: pytest-html
 
 🔗 Live Test Repo: github.com/kavyasri-singam/ExpressiveCRM
 
+--------------------------------
+
+
+###  🔐 Password Generator Automation
+
+This project automates the testing of a random password generator tool using Selenium WebDriver with Python. It verifies the UI behavior, password output, and response using automated test scripts.
+
+🔗 Live tool used for testing
+
+✨ Features
+
+🚀 Automates UI testing for a real password generation website
+
+✅ Validates presence of input controls and output
+
+🧪 Uses pytest with detailed HTML reporting
+
+🔄 Integrated with GitHub Actions for CI automation
+
+📄 Generates test report using pytest-html
+
+🛠️ Tech Stack
+
+Python	
+Selenium	
+Pytest	
+
+
 ## 💡 About Me
 - Passionate about automation, testing, and delivering high-quality software
 - Focused on building a strong portfolio through real-world QA projects
