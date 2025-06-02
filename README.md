@@ -79,6 +79,7 @@ CI/CD: GitHub Actions
 Reporting: pytest-html
 
 ✅ Features Automated
+
 🔐 Login with valid credentials
 
 📋 Access and validate Leads tab
