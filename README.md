@@ -60,6 +60,36 @@ End-to-end test suite built using **Cypress**, fully integrated with **GitHub Ac
 🔗 **GitHub Repo**: [playwright-e2e-suite](https://github.com/kavyasri-singam/playwright-e2e-suite)  
 📘 **Test Report**: Available in [Actions Artifacts](https://github.com/kavyasri-singam/playwright-e2e-suite/actions)
 
+-----------------------------
+
+:
+
+🚀 ExpressiveCRM Automation Project
+A Selenium-based test automation suite for EspoCRM, built using Python and PyTest. This project validates core CRM functionalities such as login and leads management using end-to-end UI automation.
+
+🔧 Tech Stack
+Language: Python
+
+Framework: PyTest
+
+Automation Tool: Selenium WebDriver
+
+CI/CD: GitHub Actions
+
+Reporting: pytest-html
+
+✅ Features Automated
+🔐 Login with valid credentials
+
+📋 Access and validate Leads tab
+
+📄 Generate HTML test reports automatically
+
+🔁 Continuous Integration with GitHub Actions
+
+
+
+
 
 ## 💡 About Me
 - Passionate about automation, testing, and delivering high-quality software
