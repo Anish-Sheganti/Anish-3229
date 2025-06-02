@@ -83,13 +83,13 @@ Reporting: pytest-html
 
 📋 Access and validate Leads tab
 
-📄 Generate HTML test reports automatically
+✅ Automated login and lead management workflows using Selenium WebDriver
 
-🔁 Continuous Integration with GitHub Actions
+🧪 Executed with pytest and enhanced HTML reporting using pytest-html
 
+🔄 Continuous Integration with GitHub Actions for automated test execution on every push
 
-
-
+🔗 Live Test Repo: github.com/kavyasri-singam/ExpressiveCRM
 
 ## 💡 About Me
 - Passionate about automation, testing, and delivering high-quality software
