@@ -139,7 +139,8 @@ A fullstack end-to-end automation project using **Playwright** that tests both t
 
 ### 📸 Test Report Screenshot
 
-![Test Report](./screenshot/Screenshot%20(53).png)
+https://github.com/kavyasri-singam/playwright-ui-api-suite/tree/main/screenshot 
+
 
 ### ⚙️ GitHub Actions CI Badge
 
