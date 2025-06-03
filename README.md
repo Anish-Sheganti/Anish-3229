@@ -139,7 +139,7 @@ A fullstack end-to-end automation project using **Playwright** that tests both t
 
 ### 📸 Test Report Screenshot
 
-![Test Report](./screenshot/test-report.png) 
+![Test Report](./screenshot/Screenshot%20(53).png)
 
 ### ⚙️ GitHub Actions CI Badge
 
