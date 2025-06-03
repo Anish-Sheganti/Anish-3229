@@ -117,7 +117,37 @@ This project automates the testing of a random password generator tool using Sel
 
 Python	
 Selenium	
-Pytest	
+Pytest
+
+-----------------------------------------
+
+
+## 🧪 Playwright UI + API Integration Test Suite
+
+A fullstack end-to-end automation project using **Playwright** that tests both the UI (login flow) and API (user validation) for `https://automationexercise.com`. Integrated with **GitHub Actions CI/CD** for multi-browser test execution on Chromium, Firefox, and WebKit.
+
+🔗 **GitHub Repo:**  [playwright-ui-api-suite](https://github.com/kavyasri-singam/playwright-ui-api-suite)
+
+
+### 🚀 Tech Stack
+
+- ✅ Playwright with TypeScript
+- ✅ Cross-browser testing (Chromium, Firefox, WebKit)
+- ✅ API testing using Playwright `request` context
+- ✅ GitHub Actions for CI/CD automation
+- ✅ HTML test report & screenshots
+
+### 📸 Test Report Screenshot
+
+![Test Report](./screenshot/test-report.png) 
+
+### ⚙️ GitHub Actions CI Badge
+
+![CI](https://github.com/kavyasri-singam/playwright-ui-api-suite/actions/workflows/playwright.yml/badge.svg)
+
+---
+
+
 
 
 ## 💡 About Me
