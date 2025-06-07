@@ -62,8 +62,6 @@ End-to-end test suite built using **Cypress**, fully integrated with **GitHub Ac
 
 -----------------------------
 
-:
-
 ###  🚀 ExpressiveCRM Automation Project
 A Selenium-based test automation suite for EspoCRM, built using Python and PyTest. This project validates core CRM functionalities such as login and leads management using end-to-end UI automation.
 
@@ -147,6 +145,32 @@ https://github.com/kavyasri-singam/playwright-ui-api-suite/tree/main/screenshot
 ![CI](https://github.com/kavyasri-singam/playwright-ui-api-suite/actions/workflows/playwright.yml/badge.svg)
 
 ---
+
+### 🐞 MantisBT Selenium Automation Framework
+
+📌 Description:
+Custom-built Selenium automation framework for testing MantisBT, a popular bug tracking system.
+
+🔧 Tech Stack:
+Selenium · Python · PyTest · Page Object Model · PyTest-HTML · GitHub Actions
+
+🧪 Features:
+
+✅ Automated login and bug creation
+
+✅ HTML reporting integrated with CI
+
+✅ Page Object Model structure
+
+✅ Retry logic, fixtures, utilities
+
+📸 Test Report Screenshot:
+
+![allure_report](https://github.com/user-attachments/assets/f5a55bc6-ec09-4264-b983-2ed11a903f4e)
+
+
+📂 Repo:
+🔗 View Project on GitHub
 
 
 
