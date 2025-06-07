@@ -169,11 +169,6 @@ Selenium · Python · PyTest · Page Object Model · PyTest-HTML · GitHub Actio
 ![allure_report](https://github.com/user-attachments/assets/f5a55bc6-ec09-4264-b983-2ed11a903f4e)
 
 
-📂 Repo:
-🔗 View Project on GitHub
-
-
-
 
 ## 💡 About Me
 - Passionate about automation, testing, and delivering high-quality software
