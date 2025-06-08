@@ -168,6 +168,15 @@ Selenium · Python · PyTest · Page Object Model · PyTest-HTML · GitHub Actio
 
 ![allure_report](https://github.com/user-attachments/assets/f5a55bc6-ec09-4264-b983-2ed11a903f4e)
 
+🔧 Framework Highlights:
+
+✅ Modular Page Object Model design
+✅ Configuration-driven execution
+✅ Retry logic for flaky tests
+✅ Reusable fixtures and utility functions
+✅ Clean folder structure and maintainable codebase
+
+
 
 
 ## 💡 About Me
