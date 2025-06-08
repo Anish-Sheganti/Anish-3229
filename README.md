@@ -59,7 +59,7 @@ End-to-end test suite built using **Cypress**, fully integrated with **GitHub Ac
 - ✅ CI/CD: Runs tests automatically on every push using GitHub Actions
 - 
 - 💡 Tech Stack: 
-----
+
 ![Cypress](https://img.shields.io/badge/Cypress-13.7.0-brightgreen?logo=cypress)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
 ![Mocha](https://img.shields.io/badge/Mocha-10.2.0-brown?logo=mocha)
