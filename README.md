@@ -89,8 +89,16 @@ End-to-end test suite built using **Cypress**, fully integrated with **GitHub Ac
 -----------------------------
 
 ###  🚀 ExpressiveCRM Automation Project
+
 A Selenium-based test automation suite for EspoCRM, built using Python and PyTest. This project validates core CRM functionalities such as login and leads management using end-to-end UI automation.
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Selenium](https://img.shields.io/badge/Selenium-4.20.0-brightgreen?logo=selenium)
+![PyTest](https://img.shields.io/badge/PyTest-8.1.1-yellow?logo=pytest)
+![HTML Report](https://img.shields.io/badge/Report-html-orange)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github)
+
+ 
 🔧 Tech Stack
 Language: Python
 
@@ -123,6 +131,15 @@ Reporting: pytest-html
 
 This project automates the testing of a random password generator tool using Selenium WebDriver with Python. It verifies the UI behavior, password output, and response using automated test scripts.
 
+🛠️ Tech stack
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Selenium](https://img.shields.io/badge/Selenium-4.20.0-brightgreen?logo=selenium)
+![PyTest](https://img.shields.io/badge/PyTest-8.1.1-yellow?logo=pytest)
+![HTML Report](https://img.shields.io/badge/Report-html-orange)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github)
+
+
 🔗 Live tool used for testing
 
 ✨ Features
@@ -137,11 +154,6 @@ This project automates the testing of a random password generator tool using Sel
 
 📄 Generates test report using pytest-html
 
-🛠️ Tech Stack
-
-Python	
-Selenium	
-Pytest
 
 -----------------------------------------
 
@@ -153,7 +165,13 @@ A fullstack end-to-end automation project using **Playwright** that tests both t
 🔗 **GitHub Repo:**  [playwright-ui-api-suite](https://github.com/kavyasri-singam/playwright-ui-api-suite)
 
 
-### 🚀 Tech Stack
+### 🚀 Tech Stack  ![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue?logo=typescript)
+![Playwright](https://img.shields.io/npm/v/playwright.svg?logo=playwright)
+![Chromium](https://img.shields.io/badge/Chromium-137.0.7151.27-blue?logo=google-chrome)
+![Firefox](https://img.shields.io/badge/Firefox-137.0-blue?logo=firefoxbrowser)
+![WebKit](https://img.shields.io/badge/WebKit-18.4-blue?logo=safari)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github)
+
 
 - ✅ Playwright with TypeScript
 - ✅ Cross-browser testing (Chromium, Firefox, WebKit)
@@ -178,7 +196,13 @@ https://github.com/kavyasri-singam/playwright-ui-api-suite/tree/main/screenshot
 Custom-built Selenium automation framework for testing MantisBT, a popular bug tracking system.
 
 🔧 Tech Stack:
-Selenium · Python · PyTest · Page Object Model · PyTest-HTML · GitHub Actions
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Selenium](https://img.shields.io/badge/Selenium-4.20.0-brightgreen?logo=selenium)
+![PyTest](https://img.shields.io/badge/PyTest-8.1.1-yellow?logo=pytest)
+![HTML Report](https://img.shields.io/badge/Report-Allure-orange)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github)
+
 
 🧪 Features:
 
