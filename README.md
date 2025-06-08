@@ -3,8 +3,7 @@
 
 [![QA Automation Engineer](https://img.shields.io/badge/Role-QA%20Automation%20Engineer-blueviolet)](https://github.com/kavyasri-singam)
 [![Ex-Infosys](https://img.shields.io/badge/Ex-Infosys-blue)](https://www.infosys.com/)
-[![Pronouns](https://img.shields.io/badge/Pronouns-she%2Fher-lightpink)]()
-[![Location](https://img.shields.io/badge/Work-Remote%20%7C%20India-green)]()
+
 
 💻 Skilled in:  
 ![Cypress](https://img.shields.io/badge/Cypress-13.7.0-brightgreen?logo=cypress)
