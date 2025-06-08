@@ -1,9 +1,26 @@
 # 👋 Hi, I'm KavyaSri Singam
 
-💼 QA Automation Engineer  
-📌 2 years of experience at Infosys
 
----
+[![QA Automation Engineer](https://img.shields.io/badge/Role-QA%20Automation%20Engineer-blueviolet)](https://github.com/kavyasri-singam)
+[![Ex-Infosys](https://img.shields.io/badge/Ex-Infosys-blue)](https://www.infosys.com/)
+[![Pronouns](https://img.shields.io/badge/Pronouns-she%2Fher-lightpink)]()
+[![Location](https://img.shields.io/badge/Work-Remote%20%7C%20India-green)]()
+
+💻 Skilled in:  
+![Cypress](https://img.shields.io/badge/Cypress-13.7.0-brightgreen?logo=cypress)
+![Playwright](https://img.shields.io/badge/Playwright-1.43.1-blue?logo=playwright)
+![Selenium](https://img.shields.io/badge/Selenium-4.20.0-brightgreen?logo=selenium)
+![Postman](https://img.shields.io/badge/Postman-10.21-orange?logo=postman)
+![PyTest](https://img.shields.io/badge/PyTest-8.1.1-yellow?logo=pytest)
+
+🔧 Building real-world automation suites with:
+- ✅ **CI/CD pipelines using GitHub Actions**
+- ✅ **Detailed reporting** (Allure, pytest-html)
+- ✅ **Page Object Models, Retry Logic, and Config-driven Design**
+
+🌱 Always learning | 📦 Sharing real projects | 🤝 Let’s connect!
+
+---------------------------------------------
 
 ## 🔧 Projects
 
