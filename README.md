@@ -16,9 +16,14 @@ Tested key user flows including:
 - Form Validation  
 
 Built using:
-- **Cypress**
-- **JavaScript**
-- **Node.js**
+--
+
+![Cypress](https://img.shields.io/badge/Cypress-13.7.0-brightgreen?logo=cypress)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-20.x-green?logo=node.js)
+![Mocha](https://img.shields.io/badge/Mocha-10.2.0-brown?logo=mocha)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github)
+
 
 --------
 
@@ -29,8 +34,16 @@ Automated key REST API operations:
 - ✅ PUT update product  
 - ✅ DELETE product  
 
+
 Built with:  
-Postman, Newman, JavaScript, JSON  
+---
+
+![Postman](https://img.shields.io/badge/Postman-10.21-orange?logo=postman)
+![Newman](https://img.shields.io/badge/Newman-6.0.0-brightgreen?logo=newman)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github)
+
+
 📂 [View Project Repo](https://github.com/kavyasri-singam/postman-api-tests)
 
 
@@ -44,13 +57,26 @@ End-to-end test suite built using **Cypress**, fully integrated with **GitHub Ac
 - 🔗 [GitHub Repo](https://github.com/kavyasri-singam/cypress-e2e-ci)
 - 🧪 Tested Flows: Login, Add to Cart, Checkout, Place Order
 - ✅ CI/CD: Runs tests automatically on every push using GitHub Actions
-- 💡 Tech Stack: Cypress, Mocha, Chai, JavaScript, Node.js
+- 
+- 💡 Tech Stack: 
+----
+![Cypress](https://img.shields.io/badge/Cypress-13.7.0-brightgreen?logo=cypress)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Mocha](https://img.shields.io/badge/Mocha-10.2.0-brown?logo=mocha)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github)
 
------------------
+
+--------------------------------------------------------------------
 
 ### 🎯  End-to-End Automation using Playwright
 
-🔹 **Tech Stack**: Playwright, TypeScript, GitHub Actions  
+🔹 **Tech Stack**:  ![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue?logo=typescript)
+![Playwright](https://img.shields.io/npm/v/playwright.svg?logo=playwright)
+![Chromium](https://img.shields.io/badge/Chromium-137.0.7151.27-blue?logo=google-chrome)
+![Firefox](https://img.shields.io/badge/Firefox-137.0-blue?logo=firefoxbrowser)
+![WebKit](https://img.shields.io/badge/WebKit-18.4-blue?logo=safari)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github)
+
 🔹 **Description**: A complete E2E automation test suite covering login, search, add-to-cart, and checkout flows on https://automationexercise.com.  
 🔹 **Features**:
 - 18 automated UI tests across Chromium, Firefox, and WebKit
