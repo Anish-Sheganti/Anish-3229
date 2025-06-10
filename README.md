@@ -17,7 +17,7 @@
 - ✅ **Detailed reporting** (Allure, pytest-html)
 - ✅ **Page Object Models, Retry Logic, and Config-driven Design**
 
-🌱 Always learning | 📦 Sharing real projects | 🤝 Let’s connect!
+ 📦 Sharing real projects | 🤝 Let’s connect!
 
 ---------------------------------------------
 
