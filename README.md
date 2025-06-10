@@ -1,7 +1,7 @@
 # 👋 Hi, I'm KavyaSri Singam
 
 
-![QA Engineer – Automation & Functional Testing](https://img.shields.io/badge/QA%20Engineer-Automation%20%26%20Functional%20Testing-blueviolet?style=for-the-badge&logo=pytest)
+![QA Engineer – Automation & Functional Testing](https://img.shields.io/badge/QA%20Engineer-Automation%20%26%20Functional%20Testing-blueviolet?style=for-the-badge&logo=testing-library&logoColor=white)
 [![Ex-Infosys](https://img.shields.io/badge/Ex-Infosys-blue)](https://www.infosys.com/)
 
 
