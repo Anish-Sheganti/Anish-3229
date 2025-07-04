@@ -1,4 +1,4 @@
-# 👋 Hi, Anish sheganti
+# 👋 Hi there, i'm Anish sheganti
 
 
 ![QA Engineer – Automation & Functional Testing](https://img.shields.io/badge/QA%20Engineer–Automation%20%26%20Functional%20Testing-brightgreen?logo=testing-library&logoColor=white)
