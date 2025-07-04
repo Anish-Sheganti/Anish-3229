@@ -29,9 +29,12 @@
 
 ## 🧠 Problem Solving – LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anish_2000/)
+## 🧠 Problem Solving
 
-<img src="https://leetcard.jacoblin.cool/Anish_2000?theme=dark&font=Karla&ext=activity" alt="LeetCode Stats" />
+<a href="https://leetcode.com/u/Anish_2000/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="24" height="24" />
+</a>
+
 
 
 
