@@ -8,7 +8,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-?logo=linkedin&style=social)](https://www.linkedin.com/in/anishsheganti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishsheganti)
+
 
 
 
