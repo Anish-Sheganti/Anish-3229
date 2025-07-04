@@ -1,8 +1,8 @@
-# 👋 Hi, I'm KavyaSri Singam
+# 👋 Hi, Anish sheganti
 
 
 ![QA Engineer – Automation & Functional Testing](https://img.shields.io/badge/QA%20Engineer–Automation%20%26%20Functional%20Testing-brightgreen?logo=testing-library&logoColor=white)
-[![Ex-Infosys](https://img.shields.io/badge/Ex-Infosys-blue)](https://www.infosys.com/)
+[![@TCS](https://img.shields.io/badge/@TCS-blue)](https://www.TCS.com/)
 
 
 💻 Skilled in:  
@@ -253,5 +253,5 @@ Custom-built Selenium automation framework for testing MantisBT, a popular bug t
 ---
 
 ## 📫 Contact
-- 📧 Email: kadambari1102000@gmail.com
+- 📧 anish.sheganti12345@gmail.com
 
