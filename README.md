@@ -10,6 +10,8 @@
 
 
 
+
+
 💻 Skilled in:  
 ![Cypress](https://img.shields.io/badge/Cypress-13.7.0-brightgreen?logo=cypress)
 ![Playwright](https://img.shields.io/badge/Playwright-1.43.1-blue?logo=playwright)
