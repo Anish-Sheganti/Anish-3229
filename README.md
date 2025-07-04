@@ -6,7 +6,7 @@
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/anishsheganti)
+📌 [LinkedIn Profile](https://www.linkedin.com/in/anishsheganti)
 
 
 
