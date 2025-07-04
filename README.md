@@ -4,9 +4,13 @@
 ![QA Engineer – Automation & Functional Testing](https://img.shields.io/badge/QA%20Engineer–Automation%20%26%20Functional%20Testing-brightgreen?logo=testing-library&logoColor=white)
 [![@TCS](https://img.shields.io/badge/@TCS-blue)](https://www.TCS.com/)
 
-## 🔗 Connect with me
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anishsheganti)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishsheganti)
+
+
 
 
 
