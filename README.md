@@ -4,6 +4,11 @@
 ![QA Engineer – Automation & Functional Testing](https://img.shields.io/badge/QA%20Engineer–Automation%20%26%20Functional%20Testing-brightgreen?logo=testing-library&logoColor=white)
 [![@TCS](https://img.shields.io/badge/@TCS-blue)](https://www.TCS.com/)
 
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/anishsheganti)
+
+
 
 💻 Skilled in:  
 ![Cypress](https://img.shields.io/badge/Cypress-13.7.0-brightgreen?logo=cypress)
