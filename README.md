@@ -29,7 +29,6 @@
 
 ## 🧠 Problem Solving – LeetCode
 
-## 🧠 Problem Solving
 
 <a href="https://leetcode.com/u/Anish_2000/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="24" height="24" />
